@@ -9,3 +9,9 @@ form {
     height: 100%;
     color: grey;
 }
+
+.spinner-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
